@@ -47,6 +47,7 @@
                             <img src="{{ asset('/clip-two_v1.3.0/Html-Admin/STANDARD/assets/images/Logo.png')}}" alt="TOMEI" style="opacity: .8">
                         </div>
                         <!-- start: WIZARD FORM -->
+                        {{-- <form action="/register/save" role="form" class="smart-wizard" id="form"> --}}
                         <form action="#" role="form" class="smart-wizard" id="form">
                             <div id="wizard" class="swMain">
                                 <!-- start: WIZARD SEPS -->
@@ -347,8 +348,8 @@
                                         <button class="btn btn-primary btn-o back-step btn-wide pull-left">
                                             <i class="fa fa-circle-arrow-left"></i> Back
                                         </button>
-                                        <button class="btn btn-primary btn-o next-step btn-wide pull-right">
-                                            Next <i class="fa fa-arrow-circle-right"></i>
+                                        <button type="submit" class="btn btn-primary btn-o next-step btn-wide pull-right">
+                                            Register <i class="fa fa-arrow-circle-right"></i>
                                         </button>
                                     </div>
                                 </div>
