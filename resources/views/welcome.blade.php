@@ -103,7 +103,7 @@
                                                     CREATE YOUR ACCOUNT
                                                 </legend>
                                                 <div class="margin-bottom-30">
-                                                    descriptionjdfdsfdskfds
+                                                    description over here
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-md-3">
